@@ -6,3 +6,21 @@ git remote add origin https://github.com/narasimhareddyprostack/mamatha-fullstac
 git push -u origin master
 
 ---------------------------------------------------
+Typescript Curriculam
+TS - Datatypes
+Class, Interface
+Object, Decorator
+
+
+node -v
+npm -v
+npm i -g Typescript
+tsc -v
+
+----------
+Compile TS File
+>> tsc file.ts --watch
+
+Run JS File
+>>node file.js
+
